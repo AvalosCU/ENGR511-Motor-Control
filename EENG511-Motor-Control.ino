@@ -1,6 +1,6 @@
 #include <util/atomic.h>
 
-// EENG 511 Final Project
+// ENGR 511 Final Project
 
 
 // Encoder Pins
